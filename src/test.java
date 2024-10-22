@@ -7,6 +7,8 @@ public class test {
         int x=1,y=3,z;
         z = x+y;
         System.out.println(z);
+        System.out.println(y);
+
     }
 
 }
